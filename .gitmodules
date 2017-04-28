@@ -4,3 +4,6 @@
 [submodule "submodules/OpenFaceQualifier"]
 	path = submodules/OpenFaceQualifier
 	url = https://github.com/timobaumann/OpenFaceQualifier
+[submodule "submodules/inmind-nludm"]
+	path = submodules/inmind-nludm
+	url = https://github.com/yulundu/inmind
