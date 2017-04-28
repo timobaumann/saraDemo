@@ -8,7 +8,7 @@
 	path = submodules/NLU-DM
 	url = https://github.com/yulundu/inmind
 [submodule "submodules/MUF-inMind-April2017"]
-	path = submodules/MUF-inMind-April2017
+	path = submodules/MUF
 	url = https://github.com/fpecune/MUF-inMind-April2017.git
 [submodule "submodules/InMind-April2017-JeroMQAndroid"]
 	path = submodules/JeroMQAndroid
