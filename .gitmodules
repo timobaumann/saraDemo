@@ -5,5 +5,14 @@
 	path = submodules/OpenFaceQualifier
 	url = https://github.com/timobaumann/OpenFaceQualifier
 [submodule "submodules/inmind-nludm"]
-	path = submodules/inmind-nludm
+	path = submodules/NLU-DM
 	url = https://github.com/yulundu/inmind
+[submodule "submodules/MUF-inMind-April2017"]
+	path = submodules/MUF-inMind-April2017
+	url = https://github.com/fpecune/MUF-inMind-April2017.git
+[submodule "submodules/InMind-April2017-JeroMQAndroid"]
+	path = submodules/JeroMQAndroid
+	url = https://github.com/mmasley/InMind-April2017-JeroMQAndroid.git
+[submodule "submodules/BEAT"]
+	path = submodules/BEAT
+	url = https://github.com/mmasley/InMind-April2017-BEAT.git
