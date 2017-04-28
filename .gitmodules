@@ -16,3 +16,6 @@
 [submodule "submodule/MUF"]
 	path = submodules/MUF
 	url = https://github.com/fpecune/MUF-inMind-April2017.git
+[submodule "submodules/Unity"]
+	path = submodules/Unity
+	url = https://github.com/mmasley/InMind-April2017-Unity.git
