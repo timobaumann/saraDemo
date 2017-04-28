@@ -1,0 +1,6 @@
+[submodule "submodules/OpenFace"]
+	path = submodules/OpenFace
+	url = https://github.com/timobaumann/OpenFace
+[submodule "submodules/OpenFaceQualifier"]
+	path = submodules/OpenFaceQualifier
+	url = https://github.com/timobaumann/OpenFaceQualifier
