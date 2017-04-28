@@ -13,3 +13,6 @@
 [submodule "submodules/BEAT"]
 	path = submodules/BEAT
 	url = https://github.com/mmasley/InMind-April2017-BEAT.git
+[submodule "submodule/MUF"]
+	path = submodule/MUF
+	url = https://github.com/fpecune/MUF-inMind-April2017.git
