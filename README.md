@@ -34,7 +34,11 @@ of course the MUF server must know the IP where this lives.
 Rose's movie recommendation component, usually also lives on AWS. 
 The DM module must know where this lives.
 
-#### MISSING: Conversational Classifier
+#### External: Conversational Strategy Classifier
+The CSC is not contained in the repository because it's large. 
+Find it on box: https://cmu.app.box.com/s/g92pemq20jlplfvz97jg8ifnz9ewy7ll
+Also we don't have the source code for it at present, it is connected via VHT.
+It best compiles on MacOS but also runs on Windows.
 
 #### MISSING: Rapport Estimator
 we have a working executable on a Macbook running Windows. 
